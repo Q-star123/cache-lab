@@ -1,0 +1,6 @@
+*.o
+csim
+test-trans
+tracegen
+asus-handin.tar
+
